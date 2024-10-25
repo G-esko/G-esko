@@ -40,17 +40,3 @@ Currently working as a software developer at **Ranocchi Software**, part of the 
 [![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-esko&show_icons=true&theme=light&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
 [![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoGelonese&show_icons=true&theme=light&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### 📈 Contributions
-
-- **Total Contributions**: [inserisci numero]
-- **Current Streak**: [inserisci numero]
-- **Longest Streak**: [inserisci numero]
-
----
-
-### 🌟 Fun Facts
-
-- 🏆 I've contributed to several open-source projects and am always looking to improve my skills.
-- 🌍 I love working on **distributed systems** and learning **cutting-edge technologies**.
