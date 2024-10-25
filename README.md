@@ -10,7 +10,7 @@ Currently working as a software developer at **Ranocchi Software**, part of the 
 
 - 💼 I started working at **Ranocchi Software** in January 2021, a software house now part of the **Zucchetti Group** since June 2024.
 - 🎓 I hold a diploma in Computer Science from **ITT Montani di Fermo**.
-- 🚀 Currently learning about **Artificial Intelligence**, **Data Science**, and advanced **Software Development**.
+- 🚀 Currently learning about **React Native**, **IOS/Android Mobile App Development**.
 
 ---
 
