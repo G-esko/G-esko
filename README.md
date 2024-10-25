@@ -29,6 +29,7 @@ Currently working as a software developer at **Ranocchi Software**, part of the 
   <img src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 ---
