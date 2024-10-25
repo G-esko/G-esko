@@ -22,17 +22,22 @@ Currently working as a software developer at **Ranocchi Software**, part of the 
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Unix-black?style=flat-square&logo=gnubash&logoColor=white" alt="Unix Bash" />
+  <img src="https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
----
 
 ### 📊 My GitHub Stats
 
