@@ -36,6 +36,7 @@ Currently working as a software developer at **Ranocchi Software**, part of the 
 ### 📊 My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-esko&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoGelonese&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-esko&show_icons=true&theme=light&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
 [![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoGelonese&show_icons=true&theme=light&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
