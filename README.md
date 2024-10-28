@@ -37,11 +37,3 @@ Currently working as a software developer at **Ranocchi Software**, part of the 
   <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25082439/reactnative-inner.svg" alt="React Native" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
 </p>
-
-### 📊 My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-esko&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoGelonese&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-esko&show_icons=true&theme=light&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
-[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoGelonese&show_icons=true&theme=light&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
