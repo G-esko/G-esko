@@ -37,3 +37,5 @@ Currently working as a software developer at **Ranocchi Software**, part of the 
   <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25082439/reactnative-inner.svg" alt="React Native" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
 </p>
+
+[https://github-readme-stats.vercel.app/api/top-langs?username=G-esko&show_icons=true&locale=en&layout=compact]
